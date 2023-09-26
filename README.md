@@ -22,3 +22,6 @@ Deben crear una página web que contenga tres artículos relacionados con el tem
 ## Evaluación
 
 Acá deben incluir una breve descripción y quienes trabajaron.
+
+lo que hicimos fue usar <h1> <h2> <h3> <footer> <img src > < withidt> agregamos imganes etc
+kaloian gassibe gino milanesse joquin clos 
